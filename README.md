@@ -1,2 +1,1 @@
-<p align="center"> HAMRADIO </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/https://github.com/ghsguimaraes/count.svg" /></p>
+!image[HAMRADIO](https://cdna.artstation.com/p/assets/images/images/003/535/976/large/garrett-bouton-hamradio-wireao.jpg?1474762915)
